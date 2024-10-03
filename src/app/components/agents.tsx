@@ -1,7 +1,7 @@
 import React from 'react'
-import Agent1 from "../images/person1.jpg"
-import Agent2 from "../images/person2.jpg"
-import Agent3 from "../images/person3.jpg"
+import Agent1 from "../images/person1c.jpg"
+import Agent2 from "../images/person2c.jpg"
+import Agent3 from "../images/person3c.jpg"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faSquareCheck } from '@fortawesome/free-solid-svg-icons'
 import Image from 'next/image'
