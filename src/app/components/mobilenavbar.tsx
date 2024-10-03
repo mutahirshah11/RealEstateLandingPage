@@ -3,7 +3,6 @@ import Link from 'next/link'
 
 
 
-
 const Navlinks = [
     { id: 1, url: '#', label: 'Home' },
     { id: 2, url: '#', label: 'Listings' },
