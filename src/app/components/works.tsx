@@ -4,7 +4,7 @@ const howItWorks = [
     {heading: "Step 1 ✅" , desciption:"Browse through our listings to find your dream property"},
     {heading: "Step 2 ✅" , desciption:"Schedule a visit to see the property in person"},
     {heading: "Step 3 ✅" , desciption:"Make an offer and secure your new home right away :)"},
-]
+];
 
 
 const Works = () => {
