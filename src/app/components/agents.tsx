@@ -21,7 +21,7 @@ const Agents = () => {
         - Our Certified Agents
       </p>
 
-<div  className='grid justify-center items-center pb-14 md:grid-cols-2  md:pl-20 md:mt-10 lg:grid-cols-3 lg:pl-24 gap-2 hover:cursor-pointer'>
+<div  className='grid justify-center items-center pb-14 md:grid-cols-2  md:pl-24 md:mt-10 lg:grid-cols-3 lg:pl-20 xl:24  gap-2 hover:cursor-pointer'>
 {OurAgents.map((agent,index)=>(
         <div key={index} className=' relative border-black border-2 my-12  rounded-md  bg-white  w-[250px] md:w-[280px] xl:w-[320px] hover:opacity-70'>
             <Image src={agent.picture} alt='personPicture' className=''/>
